@@ -1,0 +1,60 @@
+<VAST version="2.0">
+	<Ad id="05_1">
+		<InLine>
+			<AdSystem>2.0</AdSystem>
+			<AdTitle>PG_-_PG_ISP_FY1718_Latam_16_3-22530768</AdTitle>
+			<Impression></Impression>
+			<Creatives>
+				<Creative id="05_1_1">
+					<Linear>
+						<Duration>00:00:15</Duration>
+                            <MediaFiles>
+                                 <MediaFile type="application/javascript" apiFramework="VPAID" height="360" width="640" delivery="progressive" id="05_1_1_1"> <![CDATA[https://svastx.moatads.com/starcompgargsizmekvideo118983427865/moatwrapper.js#vast=https%3a%2f%2fbs.serving-sys.com%2fServing%3fcn%3ddisplay%26c%3d23%26pl%3dVAST%26pli%3d22530768%26PluID%3d0%26pos%3d72%26ord%3d587095034%26cim%3d1&level1=797932&level2=DBM%20Ar%20-%20ROS&level3=22530768&level4=vpaid&slicer1=undefined&slicer2=undefined&pcode=starcompgargsizmekvideo118983427865&spvb=1]]> </MediaFile>
+                            </MediaFiles>
+                        </Linear>
+                    </Creative>
+                </Creatives>
+            </InLine>
+        </Ad>
+	<Ad id="05_2">
+		<InLine>
+			<AdSystem>IntegralAds</AdSystem>
+			<AdTitle>IntegralAds VAST 2.0 Ad Wrapper</AdTitle>
+				<Description/>
+				<Impression id="Integral Ad Science">
+				<![CDATA[https://static.adsafeprotected.com/skeleton.gif]]>
+				</Impression>
+			<Creatives>
+				<Creative id="05_2_1">
+					<Linear>
+					<Duration>00:00:15</Duration>
+					<MediaFiles>
+						<MediaFile type="application/javascript" apiFramework="VPAID" height="360" width="640" delivery="progressive" id="05_2_1_1">
+							<![CDATA[https://raw.githubusercontent.com/Naltar/just-file-storage/master/Vpaid.js]]>
+						</MediaFile>
+					</MediaFiles>
+					</Linear>
+				</Creative>
+				<Creative id="05_2_2">
+					<Linear>
+						<Duration>00:00:15</Duration>
+						<VideoClicks>
+							<ClickThrough/>
+						</VideoClicks>
+						<MediaFiles>
+							<MediaFile delivery="progressive" width="300" height="250" type="application/javascript" apiFramework="VPAID" id="05_2_2_1">
+							<![CDATA[https://pixel.adsafeprotected.com/IASVideo.js?anId=927288&advId=189225&campId=3247898&pubId=apn&chanId=[AD_ATTR.width]x[AD_ATTR.height]&placementId=5416204&planId=wordpress.com&adsafe_par&bundleId=[bid_attr.app_id]&bidurl=[BID_ATTR.page_url]&uId=485860&impId=45584116233007032&originalVast=https://ad.doubleclick.net/ddm/pfadx/N6292.161249.DIGILANT/B20854101.216210469;sz=0x0;ord=1522074188;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;dcmt=text/xml;dc_vast=3]]>
+							</MediaFile>
+							<MediaFile maintainAspectRatio="true" id="05_2_2_2" bitrate="1100" height="720" scalable="true" delivery="progressive" width="1280" type="video/mp4">
+							<![CDATA[https://vcdn.adnxs.com/p/creative-video/7f/d5/c0/1c/7fd5c01c-e485-44b6-92ba-0b660fb3f64a/7fd5c01c-e485-44b6-92ba-0b660fb3f64a_1280_720_1100k.mp4]]>
+							</MediaFile>
+							<MediaFile maintainAspectRatio="true" id="05_2_2_3" bitrate="500" height="432" scalable="true" delivery="progressive" width="768" type="video/x-flv">
+							<![CDATA[https://vcdn.adnxs.com/p/creative-video/7f/d5/c0/1c/7fd5c01c-e485-44b6-92ba-0b660fb3f64a/7fd5c01c-e485-44b6-92ba-0b660fb3f64a_768_432_500k.flv]]>
+							</MediaFile>
+						</MediaFiles>
+					</Linear>
+				</Creative>
+			</Creatives>
+		</InLine>
+	</Ad>
+</VAST>
