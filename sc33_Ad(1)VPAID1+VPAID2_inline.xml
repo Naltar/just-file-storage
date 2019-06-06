@@ -76,6 +76,13 @@
 "video" : "https://i.loopme.me/html/goodLoopVpaid/Benefit_video.mp4"
 }]]>
 						</AdParameters>
+						<AdParameters>
+							<![CDATA[{
+"autoClose": "true",
+"videoRedirect": "true",
+"video" : "https://i.loopme.me/html/goodLoopVpaid/Benefit_video-2.mp4"
+}]]>
+						</AdParameters>
 						<VideoClicks>
 							<ClickThrough>
 								<![CDATA[https://tk0x1.com/sj/go/5cc054eef21dead7f54ec0ff?meta=Nzg5ODY6MzMwOTA6MTg1MWY0ZWY4YTVkYmJmYzY0NDFmMzZlMWU2NTg5OWI&ctx=CiAxODUxZjRlZjhhNWRiYmZjNjQ0MWYzNmUxZTY1ODk5YhICVUEYwoICIIrpBCoMCAMQwIQ9GAMgwM8kOIrpBEABfA&lmhref=https%3A%2F%2Floopme.com&lmhref=https%3A%2F%2Floopme.com]]>
