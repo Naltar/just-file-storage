@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VAST version="3.0">
+    <Ad id="1">
+        <InLine>
+            <AdSystem>Innovid Ads</AdSystem>
+            <AdTitle><![CDATA[REI_OLV_SPRING_OVERLAY_VISIT_30_Video_Overlay]]></AdTitle>
+            <Impression><![CDATA[https://s.innovid.com/1x1.gif?project_hash=1hbgs2&client_id=3895&video_id=265542&channel_id=728659&publisher_id=869&placement_tag_id=0&project_state=2&r=1516195291378&placement_hash=1egu79&action=init]]></Impression>
+            <Impression><![CDATA[https://dts.innovid.com/placement/1egu79/uuid?cb=70a0ab00-90f9-0c91-dd9d-5a3bee24a763]]></Impression>
+            <Creatives>
+                <Creative>
+                    <Linear >
+                        <Duration>00:00:30</Duration>
+<TrackingEvents>
+	<Tracking event="start">http://www.example.com/start</Tracking>
+	<Tracking event="firstQuartile">http://www.example.com/firstQuartile</Tracking>
+	<Tracking event="midpoint">http://www.example.com/midpoint</Tracking>
+	<Tracking event="thirdQuartile">http://www.example.com/thirdQuartile</Tracking>
+	<Tracking event="complete">http://www.example.com/complete</Tracking>
+	<Tracking event="mute">http://www.example.com/mute</Tracking>
+	<Tracking event="unmute">http://www.example.com/unmute</Tracking>
+	<Tracking event="rewind">http://www.example.com/rewind</Tracking>
+	<Tracking event="pause">http://www.example.com/pause</Tracking>
+	<Tracking event="resume">http://www.example.com/resume</Tracking>
+	<Tracking event="fullscreen">http://www.example.com/fullscreen</Tracking>
+	<Tracking event="creativeView">http://www.example.com/creativeView</Tracking>
+	<Tracking event="acceptInvitation">http://www.example.com/acceptInvitation</Tracking>
+</TrackingEvents>
+                        <VideoClicks>
+                            <ClickThrough><![CDATA[https://dts.innovid.com/clktru/action/vclk?project_hash=1hbgs2&client_id=3895&video_id=265542&channel_id=728659&publisher_id=869&placement_tag_id=0&project_state=2&r=1516195291378&placement_hash=1egu79&action=clktru&click=https%3A%2F%2Fad.doubleclick.net%2Fddm%2Ftrackclk%2FN3382.1302111.CLEARSTREAM.TV%2FB20540273.210348910%3Bdc_trk_aid%3D410689022%3Bdc_trk_cid%3D96166564%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D]]></ClickThrough>
+                            <ClickTracking><![CDATA[https://www.rei.com/h/spring-picks?cm_mmc=ad_clearstream-_-spring-_-olv-_-cpcv]]></ClickTracking>
+
+                        </VideoClicks>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" width="16" height="9" type="application/javascript" apiFramework="VPAID"><![CDATA[https://s-static.innovid.com/mobileapps/s/js/vpaid/1h41kg?cb=52c4329b-97b2-d2a7-538d-04678b22317e&deviceid=&ivc=[ecp]]]></MediaFile>
+                        </MediaFiles>
+                        
+                    </Linear>
+                </Creative>
+                <Creative><CompanionAds><Companion id="companion_300x250_static_0" width="300" height="250"><StaticResource creativeType="image/jpeg"><![CDATA[https://s-cdn.innovid.com/iroll/companion/asset/1egu79/1heuhq?cb=1515711931.7507]]></StaticResource><TrackingEvents><Tracking event="creativeView"><![CDATA[https://s.innovid.com/1x1.gif?project_hash=1hbgs2&client_id=3895&video_id=265542&channel_id=728659&publisher_id=869&placement_tag_id=0&project_state=2&placement_hash=1egu79&rnd=1516195291378&action=companion&event_value=imp&event_id=439337]]></Tracking><Tracking event="creativeView"><![CDATA[https://ad.doubleclick.net/ddm/trackimp/N3382.1302111.CLEARSTREAM.TV/B20540273.210380778;dc_trk_aid=411086427;dc_trk_cid=96506558;ord=1516195291378;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=?]]></Tracking></TrackingEvents><CompanionClickThrough><![CDATA[https://dts.innovid.com/clktru/action/clk?project_hash=1hbgs2&client_id=3895&video_id=265542&channel_id=728659&publisher_id=869&placement_tag_id=0&project_state=2&placement_hash=1egu79&rnd=1516195291378&event_id=439337&click=https%3A%2F%2Fad.doubleclick.net%2Fddm%2Ftrackclk%2FN3382.1302111.CLEARSTREAM.TV%2FB20540273.210380778%3Bdc_trk_aid%3D411086427%3Bdc_trk_cid%3D96506558%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D]]></CompanionClickThrough></Companion></CompanionAds></Creative>
+            </Creatives>
+            <Extensions>
+                <Extension type="waterfall" fallback_index="2"/>
+            </Extensions>
+        </InLine>
+    </Ad>
+    <Ad id="2">
+        <InLine>
+            <AdSystem>Innovid Ads</AdSystem>
+            <AdTitle><![CDATA[REI_OLV_SPRING_OVERLAY_VISIT_30_Video_Overlay]]></AdTitle>
+            <Impression><![CDATA[https://s.innovid.com/1x1.gif?project_hash=1hbgs2&client_id=3895&video_id=265542&channel_id=728659&publisher_id=869&placement_tag_id=0&project_state=2&r=1516195291378&placement_hash=1egu79&action=init]]></Impression>
+            <Impression><![CDATA[https://dts.innovid.com/placement/1egu79/uuid?cb=70a0ab00-90f9-0c91-dd9d-5a3bee24a763]]></Impression>
+            <Creatives>
+                <Creative>
+                    <Linear >
+                        <Duration>00:00:30</Duration>
+<TrackingEvents>
+	<Tracking event="start">http://www.example.com/start</Tracking>
+	<Tracking event="firstQuartile">http://www.example.com/firstQuartile</Tracking>
+	<Tracking event="midpoint">http://www.example.com/midpoint</Tracking>
+	<Tracking event="thirdQuartile">http://www.example.com/thirdQuartile</Tracking>
+	<Tracking event="complete">http://www.example.com/complete</Tracking>
+	<Tracking event="mute">http://www.example.com/mute</Tracking>
+	<Tracking event="unmute">http://www.example.com/unmute</Tracking>
+	<Tracking event="rewind">http://www.example.com/rewind</Tracking>
+	<Tracking event="pause">http://www.example.com/pause</Tracking>
+	<Tracking event="resume">http://www.example.com/resume</Tracking>
+	<Tracking event="fullscreen">http://www.example.com/fullscreen</Tracking>
+	<Tracking event="creativeView">http://www.example.com/creativeView</Tracking>
+	<Tracking event="acceptInvitation">http://www.example.com/acceptInvitation</Tracking>
+</TrackingEvents>
+                        <VideoClicks>
+                            <ClickThrough><![CDATA[https://dts.innovid.com/clktru/action/vclk?project_hash=1hbgs2&client_id=3895&video_id=265542&channel_id=728659&publisher_id=869&placement_tag_id=0&project_state=2&r=1516195291378&placement_hash=1egu79&action=clktru&click=https%3A%2F%2Fad.doubleclick.net%2Fddm%2Ftrackclk%2FN3382.1302111.CLEARSTREAM.TV%2FB20540273.210348910%3Bdc_trk_aid%3D410689022%3Bdc_trk_cid%3D96166564%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D]]></ClickThrough>
+                            <ClickTracking><![CDATA[https://www.rei.com/h/spring-picks?cm_mmc=ad_clearstream-_-spring-_-olv-_-cpcv]]></ClickTracking>
+
+                        </VideoClicks>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" width="16" height="9" type="video/mp4" bitrate="700"><![CDATA[htt://s-static.innovid.com/media/encoded/12_17/120622/7_source_48864_156783.mp4]]></MediaFile>
+                        </MediaFiles>
+                        
+                    </Linear>
+                </Creative>
+                <Creative><CompanionAds><Companion id="companion_300x250_static_0" width="300" height="250"><StaticResource creativeType="image/jpeg"><![CDATA[https://s-cdn.innovid.com/iroll/companion/asset/1egu79/1heuhq?cb=1515711931.7507]]></StaticResource><TrackingEvents><Tracking event="creativeView"><![CDATA[https://s.innovid.com/1x1.gif?project_hash=1hbgs2&client_id=3895&video_id=265542&channel_id=728659&publisher_id=869&placement_tag_id=0&project_state=2&placement_hash=1egu79&rnd=1516195291378&action=companion&event_value=imp&event_id=439337]]></Tracking><Tracking event="creativeView"><![CDATA[https://ad.doubleclick.net/ddm/trackimp/N3382.1302111.CLEARSTREAM.TV/B20540273.210380778;dc_trk_aid=411086427;dc_trk_cid=96506558;ord=1516195291378;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=?]]></Tracking></TrackingEvents><CompanionClickThrough><![CDATA[https://dts.innovid.com/clktru/action/clk?project_hash=1hbgs2&client_id=3895&video_id=265542&channel_id=728659&publisher_id=869&placement_tag_id=0&project_state=2&placement_hash=1egu79&rnd=1516195291378&event_id=439337&click=https%3A%2F%2Fad.doubleclick.net%2Fddm%2Ftrackclk%2FN3382.1302111.CLEARSTREAM.TV%2FB20540273.210380778%3Bdc_trk_aid%3D411086427%3Bdc_trk_cid%3D96506558%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D]]></CompanionClickThrough></Companion></CompanionAds></Creative>
+            </Creatives>
+            <Extensions>
+                <Extension type="waterfall" fallback_index="1"/>
+            </Extensions>
+        </InLine>
+    </Ad>
+</VAST>
