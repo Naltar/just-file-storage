@@ -11,7 +11,8 @@
                      <Duration>00:00:25</Duration>
 
 	   	      <VideoClicks>                    	
-                        <ClickTracking><![CDATA[https://wordpress.com/p2]]></ClickTracking>
+                          <ClickTracking><![CDATA[https://wordpress.com/p2]]></ClickTracking>
+			  <ClickThrough><![CDATA[https://wordpress.com/p2]]></ClickThrough>
           	      </VideoClicks>
 
                       <MediaFiles>
